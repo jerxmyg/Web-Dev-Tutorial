@@ -13,18 +13,41 @@ h1 {
 p {
     color: rgba(255, 255, 255, 0.85);
     font-size: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
 
 }
+li {
+    color: rgba(255, 255, 255, 0.85);
+    font-size: 30px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+object {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+}
 .websiteTitle {
-    margin: auto;
-    width: 40%;
-    padding: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
     font-size: 100px;
     color: rgba(255, 255, 255, 0.85); /* You can choose your preferred color */
     margin-bottom: 20px;
 }
 .Resume {
     font-size: 100px;
+    
+    
 }
 .Activities {
     font-size: 100px;
